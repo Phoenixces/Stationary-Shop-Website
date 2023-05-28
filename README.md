@@ -1,6 +1,6 @@
 # Stationary-Shop-Website
 ---
-###Built using technologies such as JSP, Java Servlets, MySQL, HTML, CSS, javascript and Hibernate to provide you with a seamless shopping experience
+### Built using technologies such as JSP, Java Servlets, MySQL, HTML, CSS, javascript and Hibernate to provide you with a seamless shopping experience
 
 ---
 ![Screenshot (38)](https://github.com/Phoenixces/Stationary-Shop-Website/assets/88362430/c805a016-8ab4-42c8-bc96-970cc91ebf83)
