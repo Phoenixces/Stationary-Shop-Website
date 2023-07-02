@@ -1,4 +1,4 @@
-# Stationary-Shop-Website
+# Classic Stationary-Shop-Website
 ---
 ### Built using technologies such as JSP, Java Servlets, MySQL, HTML, CSS, javascript and Hibernate to provide you with a seamless shopping experience
 
